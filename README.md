@@ -15,14 +15,16 @@ En caso de hacer el calculo con **todos** los comprobantes del Ejercicio(año), 
 
 Dado que en **2017** se realizaron cambios de version, esta herramienta soporta las siguientes versiones:
 
-*Versión **CFDi 3.2** con **Complemento Nomina**
-*Versión **CFDi 3.2** con **Complemento Nomina 1.2**
-*Versión **CFDi 3.3** con **Complemento Nomina 1.2**
+* Versión **CFDi 3.2** con **Complemento Nomina**
+
+* Versión **CFDi 3.2** con **Complemento Nomina 1.2**
+
+* Versión **CFDi 3.3** con **Complemento Nomina 1.2**
 
 ## Requisitos
 Debes de tener instalado **python 3.6**
 
-Debes de ingresar todos los archivos de nomina de **2017** con extensión **.xml**.
+Debes de ingresar todos los archivos de nomina de **2017** con extensión **.xml** en la carpeta **recibosNomina**.
 
 ## Como utilizar
 

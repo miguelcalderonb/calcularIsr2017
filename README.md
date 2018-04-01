@@ -30,3 +30,7 @@ En la carpeta raíz del repositorio corre el siguiente comando:
 ```
 python calcular.py
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
